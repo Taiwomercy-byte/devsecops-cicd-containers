@@ -1,3 +1,5 @@
+## Note
+This is my first DevSecOps lab project
 ## AWS DevSecOps Pipeline
 
 Kubernetes DevSecOps pipeline using AWS cloudnative services and open source security vulnerability scanning tools.
